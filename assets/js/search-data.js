@@ -31,13 +31,6 @@ ninja.data = [{
           window.open("https://github.com/aaronwei21", "_blank");
         },
       },{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/3927735349", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
