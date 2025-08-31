@@ -1,5 +1,6 @@
 ---
 layout: cv
+published: False
 permalink: /cv/
 title: cv
 nav: true
