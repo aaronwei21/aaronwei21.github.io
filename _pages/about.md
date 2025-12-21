@@ -5,12 +5,11 @@ permalink: /
 
 profile:
   align: right
-  image: me_at_beach.jpg
+  image: me_at_garden.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Me at Lighthouse park. <br>
     aaronw03(at)student.ubc.ca <br>
-    [Resume](/assets/pdf/resume.pdf) (as of August 2025)
+    [CV](/assets/pdf/cv.pdf) as of December 2025
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an undergraduate student at [UBC](https://www.ubc.ca/) studying mathematics and computer science, but I'm usually considering problems in statistics. My current interests lie in kernel methods, hypothesis testing and causal inference. Due to my past-life in pure math, I'm also strongly drawn towards mathematically rich problems in statistics or machine learning. I'm fortunate to be studying these topics under the supervision of [Dr. Danica Sutherland's](https://djsutherland.ml/) as a research assistant. 
+I'm an undergraduate student at [UBC](https://www.ubc.ca/) studying mathematics and computer science, but I'm usually considering problems in statistics. My current interests lie in statistical machine learning, kernel methods, hypothesis testing, and causal inference. Due to my past life studying pure mathematics, I'm also strongly drawn towards problems with rich components of analysis, stochastic processes, and other mathy bits. I'm fortunate to be working on these topics under the supervision of [Dr. Danica Sutherland](https://djsutherland.ml/) as a research assistant. 
 
 
 
