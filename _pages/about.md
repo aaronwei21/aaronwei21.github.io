@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: me_at_garden.jpg
+  image: me_at_garden.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     aaronw03(at)student.ubc.ca <br>
