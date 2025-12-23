@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     aaronw03(at)student.ubc.ca <br>
-    [CV](/assets/pdf/cv.pdf) as of December 2025
+    [CV](/assets/pdf/CV.pdf) as of December 2025
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an undergraduate student at [UBC](https://www.ubc.ca/) studying mathematics and computer science, but I'm usually considering problems in statistics. My current interests lie in statistical machine learning, kernel methods, hypothesis testing, and causal inference. Due to my past life studying pure mathematics, I'm also strongly drawn towards problems with rich components of analysis, stochastic processes, and other mathy bits. I'm fortunate to be working on these topics under the supervision of [Dr. Danica Sutherland](https://djsutherland.ml/) as a research assistant. 
+I'm an undergraduate student at [UBC](https://www.ubc.ca/) studying mathematics and computer science. My current interests lie in statistical machine learning and kernel methods with guidance from problems in hypothesis testing. Due to my past life studying pure mathematics, I'm also strongly drawn towards problems with components of analysis, stochastic processes, and other mathy bits. I'm fortunate to be working on these topics under the supervision of [Dr. Danica Sutherland](https://djsutherland.ml/).  
 
 
 
