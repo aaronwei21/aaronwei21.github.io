@@ -11,7 +11,7 @@ nav_order: 1
 
 - *Maximum Mean Discrepancy with Unequal Sample Sizes via Generalized U-Statistics*  
     Aaron Wei, Milad Jalali, Danica J. Sutherland  
-    Pre-print, December 2025 - [pdf](https://arxiv.org/pdf/2512.13997)
+    Transaction on Machine Learning Research (2026), ICML 2026 Workshop on Hypothesis Testing - [Arxiv](https://arxiv.org/abs/2512.13997) - [poster](/assets/pdf/m_n_mmd_ICML_poster.pdf)
 
 <div style="margin-top: 2rem;"></div>
 
@@ -19,4 +19,4 @@ nav_order: 1
 
 - *Kernels, Hilbert Spaces, and Inference*  
     Aaron Wei  
-    CUMC Waterloo, June 2025 - [slides](/assets/pdf/kernels_cumc.pdf)
+    CUMC Waterloo (2025) - [slides](/assets/pdf/kernels_cumc.pdf)
