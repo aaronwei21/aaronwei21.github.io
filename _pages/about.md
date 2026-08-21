@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a master's student studying computer science at the University of British Columbia. My current interests lie in kernel methods and statistical machine learning with guidance from problems in hypothesis testing. Due to my past life studying pure mathematics, I'm also strongly drawn towards problems with components of analysis, stochastic processes, and other mathy bits. I'm fortunate to be working on these topics under the supervision of [Dr. Danica Sutherland](https://djsutherland.ml/).  
+I'm a master's student studying computer science at the University of British Columbia. My current interests lie in kernel methods and statistical machine learning, with guidance from problems in hypothesis testing. Due to my past life studying pure mathematics, I'm also strongly drawn towards problems with components of analysis, stochastic processes, optimal transport, and other mathy bits. I'm fortunate to be working on these topics under the supervision of [Dr. Danica Sutherland](https://djsutherland.ml/).  
 
 
 
