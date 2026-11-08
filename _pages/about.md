@@ -8,8 +8,8 @@ profile:
   image: me_at_garden.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    aaronw03(at)student.ubc.ca <br>
-    [Resume](/assets/pdf/resume.pdf) as of August 2026
+    aaronw03(at)cs.ubc.ca <br>
+    [Resume](/assets/pdf/resume.pdf) as of November 2026
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
